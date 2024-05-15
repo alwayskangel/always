@@ -1,5 +1,4 @@
-## Menu!
-* [帳號密碼輸入教學!](https://github.com/alwayskangel/always/tree/master/%E5%B8%B3%E8%99%9F%E5%AF%86%E7%A2%BC%E8%BC%B8%E5%85%A5%E6%95%99%E5%AD%B8%EF%BC%81)
+## 帳號密碼輸入教學!
 
 打開黑市場後，到檔案瀏覽器按左邊把手的-號新增
 ![2022102118204100-74BC04234CE7B5A3EECD5F5A8A5D8C1](https://github.com/alwayskangel/always/assets/3617553/e800827d-e040-45c6-8031-994f3a097aae)
