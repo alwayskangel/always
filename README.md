@@ -1,3 +1,6 @@
+## Menu!
+* [帳號密碼輸入教學!](https://github.com/pocoda7428/shop/tree/main/how%20to%20get%20the%20shop)
+
 打開黑市場後，到檔案瀏覽器按左邊把手的-號新增
 ![2022102118204100-74BC04234CE7B5A3EECD5F5A8A5D8C1](https://github.com/alwayskangel/always/assets/3617553/e800827d-e040-45c6-8031-994f3a097aae)
 
